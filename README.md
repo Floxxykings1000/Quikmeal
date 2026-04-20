@@ -1,16 +1,15 @@
-# 🍽️ MealFlow - Smart Meal Planning & Zero Waste PWA
+# 🍽️ Quikmeal - Smart Meal Planning & Zero Waste PWA
 
 <div align="center">
-  
-![MealFlow Logo](assets/icons/icon-192x192.png)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/mealflow/deploys)
+
+![Quikmeal Logo](assets/icons/icon-192x192.png)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![PWA Ready](https://img.shields.io/badge/PWA-ready-blue)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 **Transform your meal planning with AI-powered recipes, smart pantry tracking, and automated grocery lists.**
 
-[Live Demo](https://mealflow.app) · [Documentation](https://docs.mealflow.app) · [Report Bug](https://github.com/floxxykings/mealflow/issues) · [Request Feature](https://github.com/floxxykings/mealflow/issues)
+[Report Bug](https://github.com/Floxxykings1000/Quikmeal/issues) · [Request Feature](https://github.com/Floxxykings1000/Quikmeal/discussions)
 
 </div>
 
@@ -31,12 +30,21 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mealflow.git
+git clone https://github.com/Floxxykings1000/Quikmeal.git
 
 # Navigate to project
-cd mealflow
+cd Quikmeal
 
 # Serve locally
 npx serve .
 # or
 python3 -m http.server 8080
+```
+
+## 📋 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
